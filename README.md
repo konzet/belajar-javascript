@@ -1,2 +1,2 @@
 # info
-gw mau belajar java script sekalian belajar remote digithub
+gw mau belajar javascript sekalian belajar remote digithub
